@@ -6,8 +6,3 @@
 
 
 Inter-region Transit Gateway peering
-
-<<<<<<< HEAD
-
-=======
->>>>>>> 7c0d63285abf11c21d70193992a0baced736526f
