@@ -5,4 +5,4 @@
 >The following examples use credentials file to achieve that.__
 
 
-Inter-region Transit Gateway peering
+[Inter-region Transit Gateway peering](https://github.com/rkutsel/terraform/tree/master/aws-tgw-region-peering)
